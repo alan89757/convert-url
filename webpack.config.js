@@ -6,8 +6,8 @@ module.exports = {
     mode: 'production',
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'library.js',
-        library: 'library',
-        library: 'umd'
+        filename: 'convert.js',
+        library: 'convert',
+        libraryTarget: 'umd'
     }
 }

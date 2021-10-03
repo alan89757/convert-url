@@ -3,7 +3,6 @@ import {
     convertJsonToUrl
  } from "./url/index";
 
-
 export {
     convertUrlToJson,
     convertJsonToUrl

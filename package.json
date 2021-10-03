@@ -1,15 +1,15 @@
 {
-    "name": "utils",
-    "version": "1.0.0",
-    "main": "./dist/library.js",
-    "repository": "git@github.com:alan89757/utils.git",
-    "author": "liangrongjun <liangrongjun@saicmobility.com>",
+    "name": "convert-url",
+    "version": "1.0.3",
+    "main": "./dist/convert.js",
+    "repository": "git@github.com:alan89757/convert-url.git",
+    "author": "alan89757<alan89757@163.com>",
     "license": "MIT",
+    "keywords": [
+        "convert",
+        "url",
+        "json"
+    ],
     "scripts": {
-        "build": "webpack"
-    },
-    "devDependencies": {
-        "webpack": "^5.56.0",
-        "webpack-cli": "^4.8.0"
     }
 }
