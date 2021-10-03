@@ -1,0 +1,15 @@
+{
+    "name": "utils",
+    "version": "1.0.0",
+    "main": "./dist/library.js",
+    "repository": "git@github.com:alan89757/utils.git",
+    "author": "liangrongjun <liangrongjun@saicmobility.com>",
+    "license": "MIT",
+    "scripts": {
+        "build": "webpack"
+    },
+    "devDependencies": {
+        "webpack": "^5.56.0",
+        "webpack-cli": "^4.8.0"
+    }
+}
