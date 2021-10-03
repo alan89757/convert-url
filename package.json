@@ -1,6 +1,6 @@
 {
     "name": "convert-url",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "main": "./dist/convert.js",
     "repository": "git@github.com:alan89757/convert-url.git",
     "author": "alan89757<alan89757@163.com>",
